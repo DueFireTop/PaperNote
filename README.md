@@ -14,7 +14,9 @@ The List of papers I have read (updating):
 
 1. LoRA
    - URL: http://arxiv.org/abs/2106.09685
-   - File:  [Note](https://github.com/DueFireTop/PaperNote/1-LoRA Low-Rank Adaptation of Large Language Models/Note)  [Paper](https://github.com/DueFireTop/PaperNote/1-LoRA Low-Rank Adaptation of Large Language Models/Paper)  [Paper-note](https://github.com/DueFireTop/PaperNote/1-LoRA Low-Rank Adaptation of Large Language Models/Paper-note) 
+   - File: Note, Paper, Paper-note
 2. Tree-LSTM
    - URL: http://arxiv.org/abs/1503.00075
-   - File:  [Note](https://github.com/DueFireTop/PaperNote/tree/main/2-Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks/Note)  [Paper](https://github.com/DueFireTop/PaperNote/tree/main/2-Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks/Paper)  [Paper-note](https://github.com/DueFireTop/PaperNote/tree/main/2-Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks/Paper-note) 
+   - File: Note, Paper, Paper-note
+
+ Sorry that I don't know how to write the file url.
